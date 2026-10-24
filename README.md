@@ -272,8 +272,8 @@ Salin pesan errornya, lalu bertanya di grup memakai template di atas. Kita bedah
 
 ## 📬 Gabung dan Kontak
 
-- **Grup komunitas**: _(isi dengan link grup)_
-- **Admin**: _(isi dengan nama/kontak admin)_
+- **Grup komunitas**: _https://chat.whatsapp.com/I93zuvJyZ716qdNR0VOAta?s=cl&p=a&mlu=4&ilr=4_
+- **Admin**: _maspip_
 - **Punya ide atau masukan?** Buka tab **Issues** di repo ini dan tulis idemu.
 
 ---
